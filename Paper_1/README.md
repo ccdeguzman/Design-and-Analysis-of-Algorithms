@@ -10,8 +10,8 @@ Instead of trial division, the Pollard Rho algorithm is a faster way to find fac
 **Paper_1.cpp**     - This is where all the functions live <br>
 **Paper_1.h**       - H file for Paper_1.cpp <br>
 **Paper_1Test.cpp** - Test file. This is the file to run test and create data. <br>
-                - It runs three tests. Test 1 runs a testing range of (100-200), Test 2 runs a testing range of (1000, 2000), Test 3 runs a testing range of <br>
-                  (10000,20000). It'll pick a random m for each test and n is always smaller than m. <br>
+                - It runs three tests. Test 1 runs a testing range of (100-200), Test 2 runs a testing range of (1000-2000), Test 3 runs a testing range of <br>
+                  (10000-20000). It'll pick a random m for each test and n is always smaller than m. <br>
 **results.csv**     - Results from Paper_1Test.cpp is written here. There is data already in here so feel free to check it out. <br>
 **avg_execution_time.png** - A screenshot of a graph for average execution time in nanoseconds during test. <br>
 **avg_num_divisions.png**  - A screenshot of a graph for average number of divisions executed during the test. <br>
