@@ -21,5 +21,5 @@ g++ Paper_1Test.cpp Paper_1.cpp -o test <br>
 ./test <br>
 
 ### Results:
-![Average Execution Time](Paper_1/avg_execution_time.png) <br>
-![Average Number of Divisions](Paper_1/avg_num_divisions.png)
+![Average Execution Time](avg_execution_time.png) <br>
+![Average Number of Divisions](avg_num_divisions.png)
